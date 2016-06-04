@@ -81,8 +81,10 @@ h1 {
   <li><a href="#">Wanna know more?</a>
     <ul>
       <li><a href="biography.html">Biography</a></li>
-      <li><a href="roadtogreatness.html">Road to Greatness</a></li>
-	  <li><a href="returnoftheking.html">The Returneturn of the King</a></li>
+      <li><a href="css.html">MyfirstCSS</a></li>
+	  <li><a href="form.html">Form</a></li>
+	  <li><a href="form1.html">Form1</a></li>
+	  <li><a href="longtest.html">Longtest</a></li>
 	  
     </ul>
   </li>
@@ -90,10 +92,6 @@ h1 {
   <ul>
   
 </ul>
-</br>
-<h1><font color="#E4B925">My Project</font></h1>
-<br><p text-align = "center"><font color = "#00FFFF">MY WEBSITE.</p></br>
- <center><font color="#E4B925"><a href = "index.html">Home</a></font></center>
+
 </body>
-<footer><p>&copy; Nathaniel A. Palattao(2016). All rights reserved. <br>Project in ITWD</p></footer>
 </html>
